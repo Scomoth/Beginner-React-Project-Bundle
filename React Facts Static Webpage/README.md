@@ -17,4 +17,4 @@ $ yarn watch # npm run watch
 
 ## Knowledge to work on project
  
-Javascript, React fundamentals are must to work on this project. Webpack fundamentals can be ignored for now. I would reccommend utilizing create-react-app module to create React Webpages initially. Webpack utilization is a bit more advanced.
+Javascript, React fundamentals are must to work on this project. Webpack fundamentals can be ignored for now as I had developed this webpage utilizing Scrimba Platform. Try utilizing this code on Scrimba Platform. The only change to be made is to replace 'index.js' with 'index.pack.js' in index.html files. Only then will the code get executed in Scrimba Platform. I would recommend utilizing create-react-app module to create React Webpages initially. Webpack utilization is a bit more advanced.
